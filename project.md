@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Portfolio
 ---
 
 <h2>Teenagers help center</h2>
