@@ -1,3 +1,61 @@
 name: JJRico, PhD Student
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+##########################
+# Avatar effect text and link settings
+##########################
+title: JJRico
+subtitle: Personal site
+description: Biofuels scientist, experimental
+# Title inside avatar
+avatarTitle: JJRico
+# Description in avatar
+avatarDesc: Ganz nah, und weit voraus
+url: "http://jjrico.net"
+##########################
+
+
+
+##########################
+# Colour settings
+##########################
+# Font colour
+textColor: #FF0000
+# Cover background image colour
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: purple #clear
+##########################
+
+
+
+##########################
+# Navigation buttons in the front page.s
+# Navigation buttons in the front page.s
+##########################
+nav:
+    - {title: thesis, description: thesis & code, url: '/archive'}   
+    - {title: tags, description: categories, url: '/tags'}      
+    - {title: blog home, description: my blog, url: '/#blog'}   
+# The about_button should not be removed.
+about_button:
+    title: About me
+    description: personal information and contact details
+##########################
+
+
+
+##########################
+# Blog display settings
+##########################
+# Pagination
+# Number of records per page and indicator text
+gems: [jekyll-paginate]
+paginate: 20
+paginate_path: "page/:num/"
+# Blog name format
+permalink: /:year/:month/:title/
+# Format 
+# Set highlighting
+highlighter: rouge
+##########################
