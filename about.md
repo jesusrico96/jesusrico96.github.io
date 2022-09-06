@@ -28,9 +28,9 @@ Contact: jjrico@uvigo.gal
 
 
 ### Awards and Honors
-- __Scholarship granted by the University of Vigo for funding the development of a PhD __ 2020
-- __Examiner's Prize to the top ranking student in the MSc in Mining Engineering 2022
-- __Sustainable Innovation Prize to the best Master Thesis contributing to the development of the Sustainable Development Goals __ 2021
+- Scholarship granted by the University of Vigo for funding the development of a PhD 2020
+- Examiner's Prize to the top ranking student in the MSc in Mining Engineering 2022
+- Sustainable Innovation Prize to the best Master Thesis contributing to the development of the Sustainable Development Goals 2021
 
 
 _(The above content was updated on 2022.09.06)_

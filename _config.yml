@@ -3,7 +3,7 @@
 ##########################
 title: Jesús Rico
 subtitle: Personal webpage
-description: biofuels scientist
+description: Biofuels scientist, part-time pathfinder
 # Title inside avatar
 avatarTitle: jjrico
 # Description inside avatar
@@ -24,13 +24,12 @@ cover_color: purple #clear
 # Navigation buttons in the front page.
 ##########################
 nav:
-    - {title: paper, description: paper and code, url: '/archive'}   
-    - {title: tags, description: categories, url: '/tags'}      
-    - {title: blog home, description: my blog, url: '/#blog'}   
+    - {title: Papers, description: My scientific contributions, url: '/archive'}   
+    - {title: Blog, description: My scantily filled blog, url: '/#blog'}   
 # The about_button should not be removed.
 about_button:
     title: About me
-    description: personal information and contact details
+    description: Personal information and contact details
 ##########################
 
 
