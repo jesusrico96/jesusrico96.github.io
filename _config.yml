@@ -1,94 +1,50 @@
 ##########################
-# 头像效果文字及链接设置
+# Avatar effect text and link setup
 ##########################
-title: 吴倩豪
-subtitle: 个人站
-description: 多媒体分析，计算机视觉
-# 头像里面的标题
-avatarTitle: wqhIris
-# 头像里面的描述
-avatarDesc: 不积跬步，无以至千里
-url: "http://wqhiris.github.io"
+title: Jesús Rico
+subtitle: Personal webpage
+description: biofuels scientist
+# Title inside avatar
+avatarTitle: jjrico
+# Description inside avatar
+avatarDesc: Ganz nah, und weit voraus
+url: "http://jjrico.net"
 ##########################
-
-
-##########################，
-# 评论功能，借助gitalk插件（https://github.com/gitalk/gitalk）
-# 具体设置参考以下链接：
-#    https://www.jianshu.com/p/656e6101bf0f
-#    http://note.youdao.com/publicshare/?id=6ea132ba501b49b2928125a694cc9ad9#/
-# 注意，其中id参数的设置，就是用gitalk官网给定的那个值；也可以先引用一个md5.js，然后使用md5（location pathname）作为id值，以避免因路径字符串太长而无法评论
-# 注意，这里用的标记是“comment”而不是“comments”
+# Color settings
 ##########################
-comment:
-    gitalk: true
-    gitalk_clientID: '29ca6c79e20086448a19'
-    gitalk_Secret: '56c1a901674f2ad625759ca4c869fd4dd773ea75'
-    gitalk_repo: 'wqhIris.github.io'
-    gitalk_owner: 'wqhIris'
-    gitalk_admin: 'wqhIris'
-    distractionFreeMode: true
-##########################
-
-
-##########################
-# Social
-# 社交联系方式
-##########################
-social:
-    weibo: 
-    github: wqhIris 
-    mail: wuqianhaoiris@gmail.com
-    #mail2: wqhiris@163.com
-##########################
-
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
-##########################
-# 颜色设置
-##########################
-# 字体颜色
+# Font color
 textColor: #FF0000
-# 封面背景图片颜色
+# Cover background image color
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: purple #clear
 ##########################
 
 
-##########################
-# Navigation buttons in the front page.s
-# 导航条设置，头像点击动作跳转设置（about_button）
+#########################
+# Navigation buttons in the front page.
 ##########################
 nav:
-    - {title: 论文, description: 论文及代码, url: '/archive'}   
-    - {title: 标签, description: 分类, url: '/tags'}      
-    - {title: 博客主页, description: 我的博客, url: '/#blog'}   
+    - {title: paper, description: paper and code, url: '/archive'}   
+    - {title: tags, description: categories, url: '/tags'}      
+    - {title: blog home, description: my blog, url: '/#blog'}   
 # The about_button should not be removed.
 about_button:
-    title: 关于我
-    description: 个人信息及联系方式
+    title: About me
+    description: personal information and contact details
 ##########################
 
 
 ##########################
-# 博客显示设置
+# Blog display settings
 ##########################
 # Pagination
-# 每页显示记录数及指示文字
+# Display number of records per page and indicator text
 gems: [jekyll-paginate]
 paginate: 20
 paginate_path: "page/:num/"
-# 博客名字格式
+# Blog name format
 permalink: /:year/:month/:title/
 # Format 
-# 设置高亮
+# Set highlighting
 highlighter: rouge
 ##########################
