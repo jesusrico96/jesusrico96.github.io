@@ -1051,7 +1051,7 @@ input[type="tel"]:-ms-input-placeholder {
     width: 70px; }
 
   .panel-title {
-    font-size: 1em; 
+    font-size: 2.0em; 
   }
 
   .panel-subtitle {
@@ -1375,7 +1375,7 @@ nav a {
   padding: 0px;
   color: #999;
   font-weight: 700;
-  font-size: .8em;
+  font-size: 1.0em;
   text-shadow: none;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;

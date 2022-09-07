@@ -3,12 +3,12 @@ layout: page
 title: About me 
 ---
 
-I am currently a third-year PhD student at [University of Vigo](http://uvigo.gal), supervised by [Prof. David Patiño]( https://bidi.uvigo.es/en/researcher/david-patino-vilas) and author of several [scientific contributions](https://www.scopus.com/authid/detail.uri?authorId=57219402319) in the field of assessment and reduction of pollutants in the combustion of solid biomass. 
+I am currently a third-year PhD student at the [University of Vigo](http://uvigo.gal), supervised by [Prof. David Patiño]( https://bidi.uvigo.es/en/researcher/david-patino-vilas) and author of several [scientific contributions](https://www.scopus.com/authid/detail.uri?authorId=57219402319) in the field of assessment and reduction of pollutants in the combustion of solid biomass. 
 
 Contact: jjrico@uvigo.gal
 
 ### News
-- 2022.06.28 >> Participated in __CNIT Conference on Applied Thermodynamics with both __oral presentation__
+- 2022.06.28 >> Participated in __CNIT Conference on Applied Thermodynamics__ with both oral presentation and a poster. [Link to the extended blog entry.](https://jjrico.net/2022/06/CNIT)
 
 
 ### Educational Experience

@@ -1,22 +1,22 @@
 ---
 layout: page
-title : 论文
-header : 所有论文
+title : Papers
+header : All papers published
 ---
-[<a href='https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F72GAouxsqHZy6VUO6wTkEHOtExEs8y7ekExKa8_e2Z2xWYv30hmRYPhq14Mione6Ilv-dJE-vCcuqrY8GeMYzK7xX4oNiQ97zvTMHSHZwTorxHJxQ&user=xc4cV7IAAAAJ'>前往谷歌学术主页</a>]
+[<a href='https://scholar.google.com/citations?hl=es&user=eB0Gb3EAAAAJ&view_op=list_works&sortby=title'>Link to Google Scholar</a>]
 
-### 2017
+### 2022
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/images/papers/pcm2017_partial_pace_recog.png"  alt="PCM2017_partial_face_recog"  width="200"  height="80" />
+      <img src="/images/papers/PIM.png"  alt="PIM"  width="300"  height="100" />
     </td>
-    <td align="left" valign="middle">
+    <td align="middle" valign="middle">
       <p>
-        <b>A Fast and General Method for Partial Face Recognition (oral)</b> <br />
-        <i>Qianhao Wu</i>, Zechao Li <br />
-        Pacific-Rim Conference on Multimedia (PCM), 2017. <br />
-        [<a href="https://link.springer.com/chapter/10.1007%2F978-3-319-77380-3_21">pdf</a>]
+        <b>PM reduction and flame confinement in biomass combustion using a porous inert material</b> <br />
+        <i>Juan Jesús Rico</i>, David Patiño, Natalia Cid, Raquel Pérez-Orozco <br />
+        FUEL, 2020. <br />
+        [<a href="https://doi.org/10.1016/j.fuel.2020.118496">pdf</a>]
       </p>
     </td>
   </tr>
