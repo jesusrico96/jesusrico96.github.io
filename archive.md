@@ -9,7 +9,7 @@ header : All papers published
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/images/papers/PIM.png"  alt="PIM" />
+      <img src="/images/papers/PIM.png"  alt="PIM" width="200" height="300"/>
     </td>
     <td align="center" valign="middle">
 	<p style="font-size:20px; ">
