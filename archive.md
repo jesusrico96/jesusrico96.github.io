@@ -5,6 +5,39 @@ header : All papers published
 ---
 [<a href='https://scholar.google.com/citations?hl=es&user=eB0Gb3EAAAAJ&view_op=list_works&sortby=title'>Link to Google Scholar</a>]
 
+
+### 2023
+<table class="imgtable">
+  <tr>
+    <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/impingers" alt="TG/DSC" width="530" height="256"/>
+		<p style="font-size:20px; ">
+			<b>Effect of air staging and porous inert material on the emission of volatile organic compounds in solid biomass combustion</b> <br />
+		</p>
+		<p> <i>Juan Jesús Rico</i>, Raquel Pérez-Orozco, Jacobo Porteiro, David Patiño <br />
+			FUEL, 2023. <br />
+			[<a href="https://doi.org/10.1016/j.fuel.2023.128907">pdf</a>]
+		</p>
+    </td>
+</table>
+
+
+### 2022
+<table class="imgtable">
+  <tr>
+    <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/TGDSC" alt="TG/DSC" width="500" height="256"/>
+		<p style="font-size:20px; ">
+			<b>TG/DSC and kinetic parametrization of the combustion of agricultural and forestry residues</b> <br />
+		</p>
+		<p> <i>Juan Jesús Rico</i>, Raquel Pérez-Orozco, David Patiño, Jacobo Porteiro <br />
+			Biomass and Bioenergy, 2022. <br />
+			[<a href="https://doi.org/10.1016/j.biombioe.2022.106485">pdf</a>]
+		</p>
+    </td>
+</table>
+
+
 ### 2020
 <table class="imgtable">
   <tr>
