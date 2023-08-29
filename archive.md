@@ -6,11 +6,11 @@ header : All papers published
 [<a href='https://scholar.google.com/citations?hl=es&user=eB0Gb3EAAAAJ&view_op=list_works&sortby=title'>Link to Google Scholar</a>]
 
 
-### 2023
+<h3> 2023</h3>
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/impingers" alt="TG/DSC" width="530" height="256"/>
+		<img class="middle" src="/images/papers/impingers.png" alt="TG/DSC" width="530" height="256"/>
 		<p style="font-size:20px; ">
 			<b>Effect of air staging and porous inert material on the emission of volatile organic compounds in solid biomass combustion</b> <br />
 		</p>
@@ -22,11 +22,11 @@ header : All papers published
 </table>
 
 
-### 2022
+<h3> 2022</h3>
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/TGDSC" alt="TG/DSC" width="500" height="256"/>
+		<img class="middle" src="/images/papers/TGDSC.png" alt="TG/DSC" width="500" height="256"/>
 		<p style="font-size:20px; ">
 			<b>TG/DSC and kinetic parametrization of the combustion of agricultural and forestry residues</b> <br />
 		</p>
@@ -38,7 +38,7 @@ header : All papers published
 </table>
 
 
-### 2020
+<h3> 2020</h3>
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
