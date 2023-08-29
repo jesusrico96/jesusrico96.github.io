@@ -77,7 +77,7 @@ header : All papers published
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/ovgu.jpg" alt="Biochar" width="500" height="256"/>
+		<img class="middle" src="/images/papers/ovgu.jpg" alt="Biochar" width="500" height="169"/>
 		<p style="font-size:20px; ">
 			<b>Tailored production and application of biochar for tar removal</b> <br />
 		</p>
@@ -101,7 +101,7 @@ header : All papers published
   </tr>
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/alberta.png" alt="Alberta" width="500" height="256"/>
+		<img class="middle" src="/images/papers/alberta.png" alt="Alberta" width="500" height="186"/>
 		<p style="font-size:20px; ">
 			<b>Multi-objective utilization of wood waste recycled from construction and demolition (C&D): Products and characterization</b> <br />
 		</p>
