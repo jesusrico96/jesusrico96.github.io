@@ -47,3 +47,12 @@ permalink: /:year/:month/:title/
 # Set highlighting
 highlighter: rouge
 ##########################
+# Generate sitemap
+              
+- name: generate-sitemap
+
+
+              
+  uses: cicirello/generate-sitemap@v1.9.1
+  with:
+    base-url-path: http://jjrico.net
