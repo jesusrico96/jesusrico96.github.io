@@ -38,7 +38,7 @@ about_button:
 ##########################
 # Pagination
 # Display number of records per page and indicator text
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 # Blog name format
@@ -47,12 +47,4 @@ permalink: /:year/:month/:title/
 # Set highlighting
 highlighter: rouge
 ##########################
-# Generate sitemap
-              
-- name: generate-sitemap
 
-
-              
-  uses: cicirello/generate-sitemap@v1.9.1
-  with:
-    base-url-path: http://jjrico.net
