@@ -8,8 +8,8 @@ header : All papers published
 ### 2022
 <table class="imgtable">
   <tr>
-    <td text-align="center" vertical-align="middle">
-		<img src="/images/papers/PIMdeep.jpg" alt="PIM"/>
+    <td>
+		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM"/>
     </td>
     <td align="center" valign="middle">
 		<p style="font-size:20px; ">
