@@ -26,6 +26,7 @@ cover_color: purple #clear
 nav:
     - {title: Papers, description: My scientific contributions, url: '/archive'}   
     - {title: Blog, description: My scantily filled blog, url: '/#blog'}   
+    - {title: LinkedIn, description: My LinkedIn, url: 'https://www.linkedin.com/in/jesusricofuentes/', icon: "fab fa-fw fa-linkedin"}   
 # The about_button should not be removed.
 about_button:
     title: About me
@@ -49,7 +50,3 @@ permalink: /:year/:month/:title/
 # Set highlighting
 highlighter: rouge
 ##########################
-footer_links:
-  - title: "LinkedIn"
-    icon: "linkedin"
-    url: "https://www.linkedin.com/in/jesusricofuentes/"
