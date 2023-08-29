@@ -19,7 +19,6 @@ header : All papers published
 			[<a href="https://doi.org/10.1016/j.fuel.2023.128907">pdf</a>]
 		</p>
     </td>
-</table>
 
 
 <h3> 2022</h3>
@@ -35,7 +34,6 @@ header : All papers published
 			[<a href="https://doi.org/10.1016/j.biombioe.2022.106485">pdf</a>]
 		</p>
     </td>
-</table>
 
 
 <h3> 2020</h3>
