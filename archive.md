@@ -20,6 +20,7 @@ header : All papers published
 		</p>
     </td>
   </tr>
+</table>
 
 
 <h3> 2022</h3>
@@ -36,6 +37,7 @@ header : All papers published
 		</p>
     </td>
   </tr>
+</table>
 
 
 <h3> 2020</h3>
