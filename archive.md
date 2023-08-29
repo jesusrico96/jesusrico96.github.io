@@ -8,10 +8,8 @@ header : All papers published
 ### 2022
 <table class="imgtable">
   <tr>
-    <td>
-		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM"/>
-    </td>
     <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM"/>
 		<p style="font-size:20px; ">
 			<b>PM reduction and flame confinement in biomass combustion using a porous inert material</b> <br />
 		</p>
