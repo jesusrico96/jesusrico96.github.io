@@ -5,7 +5,7 @@ header : All papers published
 ---
 [<a href='https://scholar.google.com/citations?hl=es&user=eB0Gb3EAAAAJ&view_op=list_works&sortby=title'>Link to Google Scholar</a>]
 
-### 2022
+### 2020
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
@@ -21,7 +21,7 @@ header : All papers published
   </tr>
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/esquema.png" alt="Combustibles" width="256" height="256"/>
+		<img class="middle" src="/images/papers/esquema.png" alt="Combustibles" width="460" height="256"/>
 		<p style="font-size:20px; ">
 			<b>Viability of Agricultural and Forestry Residues as Biomass Fuels in the Galicia-North Portugal Region: An Experimental Study</b> <br />
 		</p>
