@@ -9,7 +9,7 @@ header : All papers published
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM"/>
+		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM" width="256" height="256"/>
 		<p style="font-size:20px; ">
 			<b>PM reduction and flame confinement in biomass combustion using a porous inert material</b> <br />
 		</p>
