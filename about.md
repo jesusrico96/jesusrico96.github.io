@@ -33,6 +33,6 @@ Contact: jjrico@uvigo.gal
 - Sustainable Innovation Prize to the best Master Thesis contributing to the development of the Sustainable Development Goals 2021
 
 
-_(The above content was updated on 2022.09.06)_
+_(The above content was updated on 2023.08.29)_
 
 
