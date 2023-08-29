@@ -19,5 +19,17 @@ header : All papers published
 		</p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/esquema.png" alt="Combustibles" width="256" height="256"/>
+		<p style="font-size:20px; ">
+			<b>Viability of Agricultural and Forestry Residues as Biomass Fuels in the Galicia-North Portugal Region: An Experimental Study</b> <br />
+		</p>
+		<p> <i>Juan Jesús Rico</i>, Raquel Pérez-Orozco, Natalia Cid, Ana Larrañga and José Luis Míguez <br />
+			Sustainability, 2020. <br />
+			[<a href="http://dx.doi.org/10.3390/su12198206">pdf</a>]
+		</p>
+    </td>
+  </tr>
 </table>
 
