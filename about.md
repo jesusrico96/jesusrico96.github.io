@@ -5,10 +5,10 @@ title: About me
 
 I am currently a third-year PhD student at the [University of Vigo](http://uvigo.gal), supervised by [Prof. David Patiño]( https://bidi.uvigo.es/en/researcher/david-patino-vilas) and author of several [scientific contributions](https://www.scopus.com/authid/detail.uri?authorId=57219402319) in the field of assessment and reduction of pollutants in the combustion of solid biomass. 
 
-Contact: jjrico@uvigo.gal
+Contact: [jjrico@uvigo.gal](mailto:jjrico@uvigo.gal?subject=[Web]%20Contact), [LinkedIn](https://www.linkedin.com/in/jesusricofuentes/)
 
 ### News
-- 2022.06.28 >> Participated in __CNIT Conference on Applied Thermodynamics__ with both oral presentation and a poster. [Link to the extended blog entry.](https://jjrico.net/2022/06/CNIT)
+- 2023.06.24 >> Participated in the __2023 Cambridge Particle Meeting__. [Link to the extended blog entry.](https://jjrico.net/2023/06/Cambustion/)
 
 
 ### Educational Experience
@@ -30,9 +30,9 @@ Contact: jjrico@uvigo.gal
 ### Awards and Honors
 - Scholarship granted by the University of Vigo for funding the development of a PhD 2020
 - Examiner's Prize to the top ranking student in the MSc in Mining Engineering 2022
-- Sustainable Innovation Prize to the best Master Thesis contributing to the development of the Sustainable Development Goals 2021
+- Sustainable Innovation Prize to the best Masters Thesis contributing to the development of the Sustainable Development Goals 2021
 
 
-_(The above content was updated on 2023.08.29)_
+_(Content updated on 2023.08.29)_
 
 
