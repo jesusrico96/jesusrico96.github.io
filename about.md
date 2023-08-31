@@ -5,7 +5,7 @@ title: About me
 
 I am currently a third-year PhD student at the [University of Vigo](http://uvigo.gal), supervised by [Prof. David Patiño]( https://bidi.uvigo.es/en/researcher/david-patino-vilas) and author of several [scientific contributions](https://scholar.google.com/citations?user=eB0Gb3EAAAAJ&hl=es) in the field of assessment and reduction of pollutants in the combustion of solid biomass. 
 
-Contact: [ricofuentesjuanjesus@gmail.com](mailto:ricofuentesjuanjesus@gmail.com?subject=[Web]%20Contact), [LinkedIn](https://www.linkedin.com/in/jesusricofuentes/)
+Contact: [Email](mailto:jjricofuentes@gmail.com?subject=[Web]%20Contact), [LinkedIn](https://www.linkedin.com/in/jesusricofuentes/)
 
 ### News
 - 2023.06.24 >> Participated in the __2023 Cambridge Particle Meeting__. [Link to the extended blog entry.](https://jjrico.net/2023/06/Cambustion/)
