@@ -25,8 +25,9 @@ cover_color: purple #clear
 ##########################
 nav:
     - {title: Papers, description: My scientific contributions, url: '/archive'}   
-    - {title: Blog, description: My scantily filled blog, url: '/#blog'}   
+    - {title: Blog, description: My sparsely populated blog, url: '/#blog'}   
     - {title: LinkedIn, description: My LinkedIn, url: 'https://www.linkedin.com/in/jesusricofuentes/', icon: "fab fa-fw fa-linkedin"}   
+    - {title: GitHub, description: My coding projects, url: 'https://github.com/jesusrico96'}   
 # The about_button should not be removed.
 about_button:
     title: About me
