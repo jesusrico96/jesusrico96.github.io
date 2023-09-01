@@ -89,7 +89,7 @@ header : All papers published
   </tr>
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/santander.jpg" alt="Bucaramanga" width="500" height="256"/>
+		<img class="middle" src="/images/papers/santander.png" alt="Bucaramanga" width="500" height="256"/>
 		<p style="font-size:20px; ">
 			<b>Biomass CombustionModeling Using OpenFOAM: Development of a Simple ComputationalModel and Study of the Combustion Performance of Lippia origanoides Bagasse</b> <br />
 		</p>
