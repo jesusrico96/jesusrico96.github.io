@@ -3,7 +3,7 @@ layout: page
 title: About me 
 ---
 
-I am currently a Postdoc Researcher at the [Transport Processes Lab at the TU Dortmund University](https://tp.bci.tu-dortmund.de/). My field of study if combustion and pyrolysis kinetics, with a focus on experimental work and data processing.
+I am currently a Postdoc Researcher at the [Transport Processes Lab at the TU Dortmund University](https://tp.bci.tu-dortmund.de/). My field of study is combustion and pyrolysis kinetics, with a focus on experimental work and data processing.
 I completed my PhD at the [University of Vigo](http://uvigo.gal), supervised by [Prof. David Patiño](https://orcid.org/0000-0002-6129-8678) and [Prof. Raquel Pérez-Orozco](https://orcid.org/0000-0002-6352-8959) and I have authored several [scientific contributions](https://scholar.google.com/citations?user=eB0Gb3EAAAAJ&hl=es) in the field of assessment and reduction of pollutants in the combustion of solid biomass, and more recently moved to the field of pyrolysis. 
 
 Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](https://www.linkedin.com/in/jesusricofuentes/)
