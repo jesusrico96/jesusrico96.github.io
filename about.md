@@ -18,12 +18,12 @@ Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](h
 
 ### Educational Experience
 #### __University of Vigo__ 2024.1 - Vigo, Spain
-- Ph.D.
+- Ph.D. in combustion and redution of pollutants ([Read my thesis](http://hdl.handle.net/11093/6284))
 - Advisor: Prof. [David Patiño](https://www.scopus.com/authid/detail.uri?authorId=23091574100)
 - Energy Technology Group
 
 #### __University of Vigo__ 2020.7 - Vigo, Spain
-- Master's degree stage                                                    
+- Master's degree in Mining Engineering                                                    
 - Advisor: Prof. [Raquel Pérez-Orozco](https://www.scopus.com/authid/detail.uri?authorId=57196054251)
 - Mining Engineering
 
