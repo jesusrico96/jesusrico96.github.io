@@ -38,6 +38,6 @@ Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](h
 - Sustainable Innovation Prize to the best Masters Thesis contributing to the development of the Sustainable Development Goals 2021
 
 
-_(Content updated on 2023.08)_
+_(Content updated on 2024.12)_
 
 
