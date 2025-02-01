@@ -9,6 +9,8 @@ I completed my PhD at the [University of Vigo](http://uvigo.gal), supervised by 
 Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](https://www.linkedin.com/in/jesusricofuentes/)
 
 ### News
+- 2024.02.15 >> Joined the Laboratory of Trasnport Processes of the TU Dortmund. [See here my new profile!](https://tp.bci.tu-dortmund.de/laboratory/team/dr-ing-juan-jesus-rico-fuentes/)
+- 2024.01.30 >> Defended my PhD Thesis, titled __Reduction of emissions in biomass combustion systems__. [Link to the news article in the University's website.](https://cintecx.uvigo.es/es/el-investigador-juan-jesus-rico-defiende-su-tesis-sobre-reduccion-de-emisiones-en-sistemas-de-combustion-de-biomasa-en-cintecx/)
 - 2023.06.24 >> Participated in the __2023 Cambridge Particle Meeting__. [Link to the extended blog entry.](https://jjrico.net/2023/06/Cambustion/)
 
 ### Professional Experience
