@@ -15,8 +15,15 @@ Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](h
 
 ### Professional Experience
 #### __TU Dortmund University__ 2024.2 - Dortmund, Germany
-- Joined the Transport Processes Lab
+- Scientist in the Transport Processes Lab
 - Head of the Lab: Prof. Dr. -Ing. [Alba Dieguez-Alonso](https://scholar.google.com/citations?user=6eul5y8AAAAJ&hl=en)
+- Research focus: reaction kinetics, pyrolysis and plastic recycling.
+
+#### __University of Vigo__ 2018.9 - 2024.1 - Vigo,Spain
+- Scientist in the experimental biomass lab of the Energy Technology group.
+- Published 9 scientific articles, attended several international conferences.
+- Expert in University Quality Assessment and Certification of Studies.
+- Research focus: experimental biomass combustion, reduction of pollutants.
 
 ### Educational Experience
 #### __University of Vigo__ 2024.1 - Vigo, Spain
@@ -27,12 +34,10 @@ Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](h
 #### __University of Vigo__ 2020.7 - Vigo, Spain
 - Master's degree in Mining Engineering                                                    
 - Advisor: Prof. [Raquel Pérez-Orozco](https://www.scopus.com/authid/detail.uri?authorId=57196054251)
-- Mining Engineering
 
 #### __University of Vigo__ 2018.7 - Vigo, Spain
-- Bachelor Degree in Energy Engineering
+- Bachelor's Degree in Energy Engineering
 - Major in Energy Efficiency
-
 
 ### Awards and Honors
 - Scholarship granted by the University of Vigo for funding the development of a PhD 2020
@@ -40,6 +45,6 @@ Contact: [Email](mailto:jjrico@jjrico.net?subject=[Web]%20Contact), [LinkedIn](h
 - Sustainable Innovation Prize to the best Masters Thesis contributing to the development of the Sustainable Development Goals 2021
 
 
-_(Content updated on 2024.12)_
+_(Content updated on 2025.02)_
 
 
