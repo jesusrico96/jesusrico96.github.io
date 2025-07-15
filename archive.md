@@ -6,6 +6,54 @@ header : All papers published
 [<a href='https://scholar.google.com/citations?hl=es&user=eB0Gb3EAAAAJ&view_op=list_works&sortby=title'>Link to Google Scholar</a>]
 
 
+<h3> 2025</h3>
+
+
+<table class="imgtable">
+  <tr>
+    <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/2DCOS.png" alt="FTIR correlations" width="530" height="256"/>
+		<p style="font-size:20px; ">
+			<b>Investigation on the impact of potassium and mild transport limitations on the pyrolysis behavior of beech wood and its macrocomponents</b> <br />
+		</p>
+		<p> <i>Juan Jesús Rico</i>, Andrea Dernbecher, José María de la Rosa, Liane Hilfert, Hernán Almuina-Villar, Nora Kulak, Sergio Lucia, Alba Dieguez-Alonso <br />
+			Journal of Analytical and Applied Pyrolysis, 2025. <br />
+			[<a href="https://doi.org/10.1016/j.jaap.2025.107201">pdf</a>]
+		</p>
+    </td>
+  </tr>
+   <tr>
+    <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/PECS.png" alt="Particle combustion process" width="460" height="256"/>
+		<p style="font-size:20px; ">
+			<b>Experimental research on the countercurrent fixed-bed combustion of biomass</b> <br />
+		</p>
+		<p> Handel A Martinez–Sarache, Vitor C Simões, João AF Altoé, <i>Juan Jesús Rico</i>, David Patiño, Waldir A Bizzo <br />
+			Progress in Energy and Combustion Science, 2025. <br />
+			[<a href="https://doi.org/10.1016/j.pecs.2025.101233">pdf</a>]
+		</p>
+    </td>
+  </tr>
+</table>
+
+<h3> 2024</h3>
+
+
+<table class="imgtable">
+  <tr>
+    <td align="center" valign="middle">
+		<img class="middle" src="/images/papers/3DPIM.png" alt="Temperature profile during the tests" width="256" height="240"/>
+		<p style="font-size:20px; ">
+			<b>Reduction of emissions in biomass combustion systems</b> <br />
+		</p>
+		<p> <i>Juan Jesús Rico</i> <br />
+			Doctoral Dissertation, 2024. <br />
+			[<a href="https://doi.org/10.35869/11093/6284">pdf</a>]
+		</p>
+    </td>
+  </tr>
+</table>
+
 <h3> 2023</h3>
 
 
@@ -46,7 +94,7 @@ header : All papers published
 <table class="imgtable">
   <tr>
     <td align="center" valign="middle">
-		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM" width="256" height="256"/>
+		<img class="middle" src="/images/papers/PIMdeep.jpg" alt="PIM" width="256" height="240"/>
 		<p style="font-size:20px; ">
 			<b>PM reduction and flame confinement in biomass combustion using a porous inert material</b> <br />
 		</p>
